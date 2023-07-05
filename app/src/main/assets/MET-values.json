@@ -1,0 +1,4107 @@
+[
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, mountain, uphill, vigorous",
+  "METs": 14
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, mountain, competitive, racing",
+  "METs": 16
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, BMX",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, mountain, general",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, <10 mph, leisure, to work or for pleasure",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, to\/from work, self selected pace",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, on dirt or farm road, moderate pace",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, general",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, leisure, 5.5 mph",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, leisure, 9.4 mph",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, 10-11.9 mph, leisure, slow, light effort",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, 12-13.9 mph, leisure, moderate effort",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, 16-19 mph, racing\/not drafting or > 19 mph drafting, very fast, racing general",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, > 20 mph, racing, not drafting",
+  "METs": 15.8
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, 12 mph, seated, hands on brake hoods or bar drops, 80 rpm",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "bicycling, 12 mph, standing, hands on brake hoods, 60 rpm",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "bicycling",
+  "SPECIFICMOTION": "unicycling",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "activity promoting video game (e.g., Wii Fit), light effort (e.g., balance, yoga)",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "activity promoting video game (e.g., Wii Fit), moderate effort (e.g., aerobic, resistance)",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "activity promoting video\/arcade game (e.g., Exergaming, Dance Dance Revolution), vigorous effort",
+  "METs": 7.2
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "army type obstacle course exercise, boot camp training program",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, 30-50 watts, very light to light effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, 90-100 watts, moderate to vigorous effort",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, 101-160 watts, vigorous effort",
+  "METs": 8.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, 161-200 watts, vigorous effort",
+  "METs": 11
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, 201-270 watts, very vigorous effort",
+  "METs": 14
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, 51-89 watts, light-to-moderate effort",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "bicycling, stationary, RPM\/Spin bike class",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "calisthenics (e.g., push ups, sit ups, pull-ups, jumping jacks), vigorous effort",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "calisthenics (e.g., push ups, sit ups, pull-ups, lunges), moderate effort",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "calisthenics (e.g., situps, abdominal crunches), light effort",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor ( 150)",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "circuit training, moderate effort",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "CurvesTM exercise routines in women",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "Elliptical trainer, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "resistance training (weight lifting, free weight, nautilus or universal), power lifting or body building, vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "resistance (weight) training, squats , slow or explosive effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "health club exercise, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "health club exercise classes, general, gym\/weight training combined in one visit",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "health club exercise, conditioning classes",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "home exercise, general",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "stair-treadmill ergometer, general",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "rope skipping, general",
+  "METs": 12.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "rowing, stationary ergometer, general, vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "rowing, stationary, general, moderate effort",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "rowing, stationary, 100 watts, moderate effort",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "rowing, stationary, 150 watts, vigorous effort",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "rowing, stationary, 200 watts, very vigorous effort",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "ski machine, general",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "slide board exercise, general",
+  "METs": 11
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "slimnastics, jazzercise",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "stretching, mild",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "pilates, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "teaching exercise class (e.g., aerobic, water)",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "therapeutic exercise ball, Fitball exercise",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "upper body exercise, arm ergometer",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "upper body exercise, stationary bicycle – Airdyne (arms only) 40 rpm, moderate",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "water aerobics, water calisthenics, water exercise",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "whirlpool, sitting",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "video exercise workouts, TV conditioning programs (e.g., yoga, stretching), light effort",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "video exercise workouts, TV conditioning programs (e.g., cardio-resistance), moderate effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "video exercise workouts, TV conditioning programs (e.g., cardio-resistance), vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "yoga, Hatha",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "yoga, Power",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "yoga, Nadisodhana",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "yoga, Surya Namaskar",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "native New Zealander physical activities (e.g., Haka Powhiri, Moteatea, Waita Tira, Whakawatea, etc.), general, moderate effort",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "conditioning exercise",
+  "SPECIFICMOTION": "native New Zealander physical activities (e.g., Haka, Taiahab), general, vigorous effort",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "ballet, modern, or jazz, general, rehearsal or class",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "ballet, modern, or jazz, performance, vigorous effort",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "tap",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic, general",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic, step, with 6 – 8 inch step",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic, step, with 10 – 12 inch step",
+  "METs": 9.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic, step, with 4-inch step",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "bench step class, general",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic, low impact",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic, high impact",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "aerobic dance wearing 10-15 lb weights",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "ethnic or cultural dancing (e.g., Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flamenco, belly, and swing)",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "ballroom, fast",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "general dancing (e.g., disco, folk, Irish step dancing, line dancing, polka, contra, country)",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "ballroom dancing, competitive, general",
+  "METs": 11.3
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "ballroom, slow (e.g., waltz, foxtrot, slow dancing, samba, tango, 19th century dance, mambo, cha cha)",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "Anishinaabe Jingle Dancing",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "dancing",
+  "SPECIFICMOTION": "Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin’s, Caribbean Quadrills, Dinki Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina, Oreisha, Jambu)",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, general",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, crab fishing",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, catching fish with hands",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing related, digging worms, with shovel",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing from river bank and walking",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing from boat or canoe, sitting",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing from river bank, standing",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing in stream, in waders",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, ice, sitting",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, jog or line, standing, general",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, dip net, setting net and retrieving fish, general",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, set net, setting net and retrieving fish, general",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing, fishing wheel, setting net and retrieving fish, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "fishing with a spear, standing",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, bow and arrow, or crossbow",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, deer, elk, large game",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting large game, dragging carcass",
+  "METs": 11.3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting large marine animals",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting large game, from a hunting stand, limited walking",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting large game from a car, plane, or boat",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, duck, wading",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, flying fox, squirrel",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, general",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, pheasants or grouse",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, birds",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, rabbit, squirrel, prairie chick, raccoon, small game",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, pigs, wild",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "trapping game, general",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "hunting, hiking with hunting gear",
+  "METs": 9.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "pistol shooting or trap shooting, standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "rifle exercises, shooting, lying down",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "fishing and hunting",
+  "SPECIFICMOTION": "rifle exercises, shooting, kneeling or standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, sweeping carpet or floors, general",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, sweeping, slow, light effort",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, sweeping, slow, moderateeffort",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, heavy or major (e.g. wash car, wash windows, clean garage), moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, mopping, standing, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning windows, washing windows, general",
+  "METs": 3.2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "mopping, standing, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "polishing floors, standing, walking slowly, using electric polishing machine",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "multiple household tasks all at once, light effort",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "multiple household tasks all at once, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "multiple household tasks all at once, vigorous effort",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, house or cabin, general, moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "dusting or polishing furniture, general",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "kitchen activity, general, (e.g., cooking, washing dishes, cleaning up), moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cleaning, general (straightening up, changing linen, carrying out trash, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "wash dishes, standing or in general (not broken into stand\/walk components)",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "wash dishes, clearing dishes from table, walking, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "vacuuming, general, moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "butchering animals, small",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "butchering animal, large, vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cutting and smoking fish, drying fish or meat",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "tanning hides, general",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cooking or food preparation, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cooking or food preparation – standing or sitting or in general (not broken into stand\/walk components), manual appliances, light effort",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "serving food, setting table, implied walking or standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cooking or food preparation, walking",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "feeding household animals",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "putting away groceries (e.g. carrying groceries, shopping without a grocery cart), carrying packages",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "carrying groceries upstairs",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "cooking Indian bread on an outside stove",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "food shopping with or without a grocery cart, standing or walking",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "non-food shopping, with or without a cart, standing or walking",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "ironing",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "knitting, sewing, light effort, wrapping presents, sitting",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "sewing with a machine",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "laundry, fold or hang clothes, put clothes in washer or dryer, packing suitcase, washing clothes by hand, implied standing, light effort",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "laundry, hanging wash, washing clothes by hand, moderate effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "laundry, putting away clothes, gathering clothes to pack, putting away laundry, implied walking",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "making bed, changing linens",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "maple syruping\/sugar bushing (including carrying buckets, carrying wood)",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "moving furniture, household items, carrying boxes",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "moving, lifting light loads",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "organizing room",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, light effort",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "sweeping garage, sidewalk or outside of house",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "standing, packing\/unpacking boxes, occasional lifting of lightweight household items, loading or unloading items in car, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "implied walking, putting away household items, moderate effort",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "watering plants",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "building a fire inside",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "moving household items upstairs, carrying boxes or furniture",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "standing, light effort tasks (pump gas, change light bulb, etc.)",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walking, moderate effort tasks, non-cleaning (readying to leave, shut\/lock doors, close windows, etc.)",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "sitting, playing with child(ren), light effort, only active periods",
+  "METs": 2.2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "standing, playing with child(ren) light effort, only active periods",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walking\/running, playing with child(ren), moderate effort, only active periods",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walking\/running, playing with child(ren), vigorous effort, only active periods",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walking and carrying small child, child weighing 15 lbs or more",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walking and carrying small child, child weighing less than 15 lbs",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "standing, holding child",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "child care, infant, general",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "child care, sitting\/kneeling (e.g., dressing, bathing, grooming, feeding, occasional lifting of child), light effort, general",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "child care, standing (e.g., dressing, bathing, grooming, feeding, occasional lifting of child), moderate effort",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "reclining with baby",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "breastfeeding, sitting or reclining",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "sit, playing with animals, light effort, only active periods",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "stand, playing with animals, light effort, only active periods",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walk\/run, playing with animals, general, light effort, only active periods",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walk\/run, playing with animals, moderate effort, only active periods",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "walk\/run, playing with animals, vigorous effort, only active periods",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "standing, bathing dog",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "animal care, household animals, general",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "elder care, disabled adult, bathing, dressing, moving into and out of bed, only active periods",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home activities",
+  "SPECIFICMOTION": "elder care, disabled adult, feeding, combing hair, light effort, only active periods",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "airplane repair",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "automobile body work",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "automobile repair, light or moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, general, workshop",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, outside house, installing rain gutters,carpentry, outside house, building a fence",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, outside house, building a fence",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, finishing or refinishing cabinets or furniture",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, sawing hardwood",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, home remodeling tasks, moderate effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "carpentry, home remodeling tasks, light effort",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "caulking, chinking log cabin",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "caulking, except log cabin",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "cleaning gutters",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "excavating garage",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "hanging storm windows",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "hanging sheet rock inside house",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "hammering nails",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "home repair, general, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "home repair, general, moderate effort",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "home repair, general, vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "laying or removing carpet",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "laying tile or linoleum,repairing appliances",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "repairing appliances",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "painting, outside home",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "painting inside house,wallpapering, scraping paint",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "painting",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "plumbing, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "put on and removal of tarp – sailboat",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "roofing",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "sanding floors with a power sander",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "scraping and painting sailboat or powerboat",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "sharpening tools",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "spreading dirt with a shovel",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "washing and waxing hull of sailboat or airplane",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "washing and waxing car",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "washing fence, painting fence, moderate effort",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "home repair",
+  "SPECIFICMOTION": "wiring, tapping-splicing",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "lying quietly and watching television",
+  "METs": 1
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "lying quietly, doing nothing, lying in bed awake, listening to music (not talking or reading)",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting quietly and watching television",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting quietly, general",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting quietly, fidgeting, general, fidgeting hands",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting, fidgeting feet",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting, smoking",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting, listening to music (not talking or reading) or watching a movie in a theater",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sitting at a desk, resting head in hands",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "sleeping",
+  "METs": 0.95
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "standing quietly, standing in a line",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "standing, fidgeting",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "reclining, writing",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "reclining, talking or talking on phone",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "reclining, reading",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "inactivity quiet\/light",
+  "SPECIFICMOTION": "meditating",
+  "METs": 1
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "carrying, loading or stacking wood, loading\/unloading or carrying lumber, light-to-moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "carrying, loading or stacking wood, loading\/unloading or carrying lumber",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "chopping wood, splitting logs, moderate effort",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "chopping wood, splitting logs, vigorous effort",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "clearing light brush, thinning garden, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "clearing brush\/land, undergrowth, or ground, hauling branches, wheelbarrow chores, vigorous effort",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "digging sandbox, shoveling sand",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "digging, spading, filling garden, composting, light-to-moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "digging, spading, filling garden, compositing",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "digging, spading, filling garden, composting, vigorous effort",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "driving tractor",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "felling trees, large size",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "felling trees, small-medium size",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "gardening with heavy power tools, tilling a garden, chain saw",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "gardening, using containers, older adults > 60 years",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "irrigation channels, opening and closing ports",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "laying crushed rock",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "laying sod",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "mowing lawn, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "mowing lawn, riding mower",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "mowing lawn, walk, hand mower",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "mowing lawn, walk, power mower, moderate or vigorous effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "mowing lawn, power mower, light or moderate effort",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "operating snow blower, walking",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "planting, potting, transplanting seedlings or plants, light effort",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "planting seedlings, shrub, stooping, moderate effort",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "planting crops or garden, stooping, moderate effort",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "planting trees",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "raking lawn or leaves, moderate effort",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "raking lawn",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "raking roof with snow rake",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "riding snow blower",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "sacking grass, leaves",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "shoveling dirt or mud",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "shoveling snow, by hand, moderate effort",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "shoveling snow, by hand",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "shoveling snow, by hand, vigorous effort",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "trimming shrubs or trees, manual cutter",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "trimming shrubs or trees, power cutter, using leaf blower, edge, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "walking, applying fertilizer or seeding a lawn, push applicator",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "watering lawn or garden, standing or walking",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "weeding, cultivating garden, light-to-moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "weeding, cultivating garden",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "weeding, cultivating garden, using a hoe, moderate-to-vigorous effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "gardening, general, moderate effort",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "picking fruit off trees, picking fruits\/vegetables, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "picking fruit off trees, gleaning fruits, picking fruits\/vegetables, climbing ladder to pick fruit, vigorous effort",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "implied walking\/standing – picking up yard, light, picking flowers or vegetables",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "walking, gathering gardening tools",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "wheelbarrow, pushing garden cart or wheelbarrow",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "yard work, general, light effort",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "yard work, general, moderate effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "lawn and garden",
+  "SPECIFICMOTION": "yard work, general, vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "board game playing, sitting",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "casino gambling, standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "card playing,sitting",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "chess game, sitting",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "copying documents, standing",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "drawing, writing, painting, standing",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "laughing, sitting",
+  "METs": 1
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, reading, book, newspaper, etc.",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, writing, desk work, typing",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, playing traditional video game, computer game",
+  "METs": 1
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "standing, talking in person, on the phone, computer, or text messaging, light effort",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, talking in person, on the phone, computer, or text messaging, light effort",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, studying, general, including reading and\/or writing, light effort",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, in class, general, including note-taking or class discussion",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "standing, reading",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "standing, miscellaneous",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, arts and crafts, carving wood, weaving, spinning wool, light effort",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting, arts and crafts, carving wood, weaving, spinning wool, moderate effort",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "standing, arts and crafts, sand painting, carving, weaving, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "standing, arts and crafts, sand painting, carving, weaving, moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "standing, arts and crafts, sand painting, carving, weaving, vigorous effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "retreat\/family reunion activities involving sitting, relaxing, talking, eating",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "retreat\/family reunion activities involving playing games with children",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "touring\/traveling\/vacation involving riding in a vehicle",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "touring\/traveling\/vacation involving walking",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "camping involving standing, walking, sitting, light-to-moderate effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "miscellaneous",
+  "SPECIFICMOTION": "sitting at a sporting event, spectator",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "accordion, sitting",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "cello, sitting",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "conducting orchestra, standing",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "double bass, standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "drums, sitting",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "drumming (e.g., bongo, conga, benbe), moderate, sitting",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "flute, sitting",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "horn, standing",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "piano, sitting",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "playing musical instruments, general",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "organ, sitting",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "trombone, standing",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "trumpet, standing",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "violin, sitting",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "woodwind, sitting",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "guitar, classical, folk, sitting",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "guitar, rock and roll band, standing",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "marching band, baton twirling, walking, moderate pace, general",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "marching band, playing an instrument, walking, brisk pace, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "music playing",
+  "SPECIFICMOTION": "marching band, drum major, walking",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "active workstation, treadmill desk, walking",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "airline flight attendant",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "bakery, general, moderate effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "bakery, light effort",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "bookbinding",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "building road, driving heavy machinery",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "building road, directing traffic, standing",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "carpentry, general, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "carpentry, general, moderate effort",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "carpentry, general, heavy or vigorous effort",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "carrying heavy loads (e.g., bricks, tools)",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "carrying moderate loads up stairs, moving boxes 25-49 lbs",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "chambermaid, hotel housekeeper, making bed, cleaning bathroom, pushing cart",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "coal mining, drilling coal, rock",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "coal mining, erecting supports",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "coal mining, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "coal mining, shoveling coal",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "cook, chef",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "construction, outside, remodeling, new structures (e.g., roof repair, miscellaneous)",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "custodial work, light effort (e.g., cleaning sink and toilet, dusting, vacuuming, light cleaning)",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "custodial work, moderate effort (e.g., electric buffer, feathering arena floors, mopping, taking out trash, vacuuming)",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "electrical work (e.g., hook up wire, tapping-splicing)",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "engineer (e.g., mechanical or electrical)",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, vigorous effort (e.g., baling hay, cleaning barn)",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, moderate effort (e.g., feeding animals, chasing cattle by walking and\/or horseback, spreading manure, harvesting crops)",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, light effort (e.g., cleaning animal sheds, preparing animal feed)",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, driving tasks (e.g., driving tractor or harvester)",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, feeding small animals",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, feeding cattle, horses",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, hauling water for animals, general hauling water,farming, general hauling water",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, taking care of animals (e.g., grooming, brushing, shearing sheep, assisting with birthing, medical care, branding), general",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, rice, planting, grain milling activities",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, milking by hand, cleaning pails, moderate effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "farming, milking by machine, light effort",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fire fighter, general",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fire fighter, rescue victim, automobile accident, using pike pole",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fire fighter, raising and climbing ladder with full gear, simulated fire suppression",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fire fighter, hauling hoses on ground, carrying\/hoisting equipment, breaking down walls etc., wearing full gear",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fishing, commercial, light effort",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fishing, commercial, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "fishing, commercial, vigorous effort",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "forestry, ax chopping, very fast, 1.25 kg axe, 51 blows\/min, extremely vigorous effort",
+  "METs": 17.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "forestry, ax chopping, slow, 1.25 kg axe, 19 blows\/min, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "forestry, ax chopping, fast, 1.25 kg axe, 35 blows\/min, vigorous effort",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "forestry, moderate effort (e.g., sawing wood with power saw, weeding, hoeing)",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "forestry, vigorous effort (e.g., barking, felling, or trimming trees, carrying or stacking logs, planting seeds, sawing lumber by hand)",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "furriery",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "garbage collector, walking, dumping bins into truck",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "hairstylist (e.g., plaiting hair, manicure, make-up artist)",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "horse grooming, including feeding, cleaning stalls, bathing, brushing, clipping, longeing and exercising horses",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "horse, feeding, watering, cleaning stalls, implied walking and lifting loads",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "horse racing, galloping",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "horse racing, trotting",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "horse racing, walking",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "kitchen maid",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "lawn keeper, yard work, general",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "laundry worker",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "locksmith",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "machine tooling (e.g., machining, working sheet metal, machine fitter, operating lathe, welding) light-to-moderate effort",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "Machine tooling, operating punch press, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "manager, property",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "manual or unskilled labor, general, light effort",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "manual or unskilled labor, general, moderate effort",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "manual or unskilled labor, general, vigorous effort",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "masonry, concrete, moderate effort",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "masonry, concrete, light effort",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "massage therapist, standing",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "moving, carrying or pushing heavy objects, 75 lbs or more, only active time (e.g., desks, moving van work)",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "skindiving or SCUBA diving as a frogman, Navy Seal",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "operating heavy duty equipment, automated, not driving",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "orange grove work, picking fruit",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "painting,house, furniture, moderate effort",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "plumbing activities",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "printing, paper industry worker, standing",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "police, directing traffic, standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "police, driving a squad car, sitting",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "police, riding in a squad car, sitting",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "police, making an arrest, standing",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "postal carrier, walking to deliver mail",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "shoe repair, general",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "shoveling, digging ditches",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "shoveling, more than 16 lbs\/minute, deep digging, vigorous effort",
+  "METs": 8.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "shoveling, less than 10 lbs\/minute, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "shoveling, 10 to 15 lbs\/minute, vigorous effort",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "sitting tasks, light effort (e.g., office work, chemistry lab work, computer work, light assembly repair, watch repair, reading, desk work)",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "sitting meetings, light effort, general, and\/or with talking involved (e.g., eating at a business meeting)",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "sitting tasks, moderate effort (e.g., pushing heavy levers, riding mower\/forklift, crane operation)",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "sitting, teaching stretching or yoga, or light effort exercise class",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "standing tasks, light effort (e.g., bartending, store clerk, assembling, filing, duplicating, librarian, putting up a Christmas tree, standing and talking at work, changing clothes when teaching physical education, standing)",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "standing, light\/moderate effort (e.g., assemble\/repair heavy parts, welding,stocking parts,auto repair,standing, packing boxes, nursing patient care)",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "standing, moderate effort, lifting items continuously, 10 – 20 lbs, with limited walking or resting",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "standing, moderate effort, intermittent lifting 50 lbs, hitch\/twisting ropes",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "standing, moderate\/heavy tasks (e.g., lifting more than 50 lbs, masonry, painting, paper hanging)",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "steel mill, moderate effort (e.g., fettling, forging, tipping molds)",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "steel mill, vigorous effort (e.g., hand rolling, merchant mill rolling, removing slag, tending furnace)",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, cutting fabric",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, general",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, hand sewing",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, machine sewing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, pressing",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, weaving, light effort (e.g., finishing operations, washing, dyeing, inspecting cloth, counting yards, paperwork)",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "tailoring, weaving, moderate effort (e.g., spinning and weaving operations, delivering boxes of yam to spinners, loading of warp bean, pinwinding, conewinding, warping, cloth cutting)",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "truck driving, loading and unloading truck, tying down load, standing, walking and carrying heavy loads",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "Truck, driving delivery truck, taxi, shuttlebus, school bus",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "typing, electric, manual or computer",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "using heavy power tools such as pneumatic tools (e.g., jackhammers, drills)",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "using heavy tools (not power) such as shovel, pick, tunnel bar, spade",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking on job, less than 2.0 mph, very slow speed, in office or lab area",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking on job, 3.0 mph, in office, moderate speed, not carrying anything",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking on job, 3.5 mph, in office, brisk speed, not carrying anything",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking on job, 2.5 mph, slow speed and carrying light objects less than 25 lbs",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking, gathering things at work, ready to leave",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking, 2.5 mph, slow speed, carrying heavy objects more than 25 lbs",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking, 3.0 mph, moderately and carrying light objects less than 25 lbs",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking, pushing a wheelchair",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking, 3.5 mph, briskly and carrying objects less than 25 lbs",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking or walk downstairs or standing, carrying objects about 25 to 49 lbs",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking or walk downstairs or standing, carrying objects about 50 to 74 lbs",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking or walk downstairs or standing, carrying objects about 75 to 99 lbs",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "walking or walk downstairs or standing, carrying objects about 100 lbs or more",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "occupation",
+  "SPECIFICMOTION": "working in scene shop, theater actor, backstage employee",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "jog\/walk combination (jogging component of less than 10 minutes)",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "jogging, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "jogging, in place",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "jogging, on a mini-tramp",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "Running, 4 mph (13 min\/mile)",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 5 mph (12 min\/mile)",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 5.2 mph (11.5 min\/mile)",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 6 mph (10 min\/mile)",
+  "METs": 9.8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 6.7 mph (9 min\/mile)",
+  "METs": 10.5
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 7 mph (8.5 min\/mile)",
+  "METs": 11
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 7.5 mph (8 min\/mile)",
+  "METs": 11.5
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 8 mph (7.5 min\/mile)",
+  "METs": 11.8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 8.6 mph (7 min\/mile)",
+  "METs": 12.3
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 9 mph (6.5 min\/mile)",
+  "METs": 12.8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 10 mph (6 min\/mile)",
+  "METs": 14.5
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 11 mph (5.5 min\/mile)",
+  "METs": 16
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 12 mph (5 min\/mile)",
+  "METs": 19
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 13 mph (4.6 min\/mile)",
+  "METs": 19.8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, 14 mph (4.3 min\/mile)",
+  "METs": 23
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, cross country",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, stairs, up",
+  "METs": 15
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, on a track, team practice",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, training, pushing a wheelchair or baby carrier",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "running",
+  "SPECIFICMOTION": "running, marathon",
+  "METs": 13.3
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "getting ready for bed, general, standing",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "sitting on toilet, eliminating while standing or squatting",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "bathing, sitting",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "dressing, undressing, standing or sitting",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "eating, sitting",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "talking and eating or eating only, standing",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "taking medication, sitting or standing",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "grooming, washing hands, shaving, brushing teeth, putting on make-up, sitting or standing",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "hairstyling, standing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "having hair or nails done by someone else, sitting",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "self care",
+  "SPECIFICMOTION": "showering, toweling off, standing",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "sexual activity",
+  "SPECIFICMOTION": "active, vigorous effort",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "sexual activity",
+  "SPECIFICMOTION": "general, moderate effort",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "sexual activity",
+  "SPECIFICMOTION": "passive, light effort, kissing, hugging",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "Alaska Native Games, Eskimo Olympics, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "archery, non-hunting",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "badminton, competitive",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "badminton, social singles and doubles, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, game",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, non-game, general",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, general",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, officiating",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, shooting baskets",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, drills, practice",
+  "METs": 9.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "basketball, wheelchair",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "billiards",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "bowling",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "bowling, indoor, bowling alley",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "boxing, in ring, general",
+  "METs": 12.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "boxing, punching bag",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "boxing, sparring",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "broomball",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "children’s games, adults playing (e.g., hopscotch, 4-square, dodgeball, playground apparatus, t-ball, tetherball, marbles, arcade games), moderate effort",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "cheerleading, gymnastic moves, competitive",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "coaching, football, soccer, basketball, baseball, swimming, etc.",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "coaching, actively playing sport with players",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "cricket, batting, bowling, fielding",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "croquet",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "curling",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "darts, wall or lawn",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "drag racing, pushing or driving a car",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "auto racing, open wheel",
+  "METs": 8.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "fencing",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "football, competitive",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "football, touch, flag, general",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "football, touch, flag, light effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "football or baseball, playing catch",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "frisbee playing, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "frisbee, ultimate",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "golf, general",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "golf, walking, carrying clubs",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "golf, miniature, driving range",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "golf, walking, pulling clubs",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "golf, using power cart",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "gymnastics, general",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "hacky sack",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "handball, general",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "handball, team",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "high ropes course, multiple elements",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "hang gliding",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "hockey, field",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "hockey, ice, general",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "hockey, ice, competitive",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horseback riding, general",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horse chores, feeding, watering, cleaning stalls, implied walking and lifting loads",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "saddling, cleaning, grooming, harnessing and unharnessing horse",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horseback riding, trotting",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horseback riding, canter or gallop",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horseback riding,walking",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horseback riding, jumping",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horse cart, driving, standing or sitting",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "horseshoe pitching, quoits",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "jai alai",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "martial arts, different types, slower pace, novice performers, practice",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "martial arts, different types, moderate pace (e.g., judo, jujitsu, karate, kick boxing, tae kwan do, tai-bo, Muay Thai boxing)",
+  "METs": 10.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "juggling",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "kickball",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "lacrosse",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "lawn bowling, bocce ball, outdoor",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "moto-cross, off-road motor sports, all-terrain vehicle, general",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "orienteering",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "paddleball, competitive",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "paddleball, casual, general",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "polo, on horseback",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "racquetball, competitive",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "racquetball, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rock or mountain climbing",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rock climbing, ascending rock, high difficulty",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rock climbing, ascending or traversing rock, low-to-moderate difficulty",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rock climbing, rappelling",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rodeo sports, general, light effort",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rodeo sports, general, moderate effort",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rodeo sports, general, vigorous effort",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rope jumping, fast pace, 120-160 skips\/min",
+  "METs": 12.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rope jumping, moderate pace, 100-120 skips\/min, general, 2 foot skip, plain bounce",
+  "METs": 11.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rope jumping, slow pace, < 100 skips\/min, 2 foot skip, rhythm bounce",
+  "METs": 8.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rugby, union, team, competitive",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rugby, touch, non-competitive",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "shuffleboard",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "skateboarding, general, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "skateboarding, competitive, vigorous effort",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "skating, roller",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rollerblading, in-line skating, 14.4 km\/h (9.0 mph), recreational pace",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rollerblading, in-line skating, 17.7 km\/h (11.0 mph), moderate pace, exercise training",
+  "METs": 9.8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rollerblading, in-line skating, 21.0 to 21.7 km\/h (13.0 to 13.6 mph), fast pace, exercise training",
+  "METs": 12.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "rollerblading, in-line skating, 24.0 km\/h (15.0 mph), maximal effort",
+  "METs": 14
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "skydiving, base jumping, bungee jumping",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "soccer, competitive",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "soccer, casual, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "softball or baseball, fast or slow pitch, general",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "softball, practice",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "softball, officiating",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "softball, pitching",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "sports spectator, very excited, emotional, physically moving",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "squash",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "squash, general",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "table tennis, ping pong",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tai chi, qi gong, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tai chi, qi gong, sitting, light effort",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tennis, general",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tennis, doubles",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tennis, doubles",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tennis, singles",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "tennis, hitting balls, non-game play, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "trampoline, recreational",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "trampoline, competitive",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "volleyball",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "volleyball, competitive, in gymnasium",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "volleyball, non-competitive, 6 – 9 member team, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "volleyball, beach, in sand",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "wrestling (one match = 5 minutes)",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "wallyball, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "track and field (e.g., shot, discus, hammer throw)",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "track and field (e.g., high jump, long jump, triple jump, javelin, pole vault)",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "sports",
+  "SPECIFICMOTION": "track and field (e.g., steeplechase, hurdles)",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "automobile or light truck (not a semi) driving",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "riding in a car or truck",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "riding in a bus or train",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "flying airplane or helicopter",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "motor scooter, motorcycle",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "pulling rickshaw",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "pushing plane in and out of hangar",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "truck, semi, tractor, > 1 ton, or bus, driving",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "transportation",
+  "SPECIFICMOTION": "walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "backpacking",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "backpacking, hiking or organized walking with a daypack",
+  "METs": 7.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying 15 pound load (e.g. suitcase), level ground or downstairs",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying 15 lb child, slow walking",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying load upstairs, general",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying 1 to 15 lb load, upstairs",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying 16 to 24 lb load, upstairs",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying 25 to 49 lb load, upstairs",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying 50 to 74 lb load, upstairs",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "carrying > 74 lb load, upstairs",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "loading \/unloading a car, implied walking",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "climbing hills, no load",
+  "METs": 6.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "climbing hills with 0 to 9 lb load",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "climbing hills with 10 to 20 lb load",
+  "METs": 7.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "climbing hills with 21 to 42 lb load",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "climbing hills with 42+ lb load",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "descending stairs",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "hiking, cross country",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "hiking or walking at a normal pace through fields and hillsides",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "bird watching, slow walk",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "marching, moderate speed, military, no pack",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "marching rapidly, military, no pack",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "pushing a wheelchair, non-occupational",
+  "METs": 3.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "race walking",
+  "METs": 6.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "stair climbing, using or climbing up ladder",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "stair climbing, slow pace",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "stair climbing, fast pace",
+  "METs": 8.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "using crutches",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, household",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, less than 2.0 mph, level, strolling, very slow",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 2.0 mph, level, slow pace, firm surface",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking for pleasure",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking to neighbor’s house or family’s house for social reasons",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking the dog",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 2.5 mph, level, firm surface",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 2.5 mph, downhill",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 2.8 to 3.2 mph, level, moderate pace, firm surface",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 3.5 mph, level, brisk, firm surface, walking for exercise",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 2.9 to 3.5 mph, uphill, 1 to 5% grade",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 2.9 to 3.5 mph, uphill, 6% to 15% grade",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 4.0 mph, level, firm surface, very brisk pace",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 4.5 mph, level, firm surface, very, very brisk",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 5.0 mph, level, firm surface",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, 5.0 mph, uphill, 3% grade",
+  "METs": 9.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, for pleasure, work break",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, grass track",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, normal pace, plowed field or sand",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, to work or class",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, to and from an outhouse",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, for exercise, 3.5 to 4 mph, with ski poles, Nordic walking, level, moderate pace",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, for exercise, 5.0 mph, with ski poles, Nordic walking, level, fast pace",
+  "METs": 9.5
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, for exercise, with ski poles, Nordic walking, uphill",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, backwards, 3.5 mph, level",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "walking",
+  "SPECIFICMOTION": "walking, backwards, 3.5 mph, uphill, 5% grade",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "boating, power, driving",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "boating, power, passenger, light",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, on camping trip",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, harvesting wild rice, knocking rice off the stalks",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, portaging",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, rowing, 2.0-3.9 mph, light effort",
+  "METs": 2.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, rowing, 4.0-5.9 mph, moderate effort",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, rowing, kayaking, competition, >6 mph, vigorous effort",
+  "METs": 12.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, rowing, for pleasure, general",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "canoeing, rowing, in competition, or crew or sculling",
+  "METs": 12
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "diving, springboard or platform",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "kayaking, moderate effort",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "paddle boat",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "sailing, boat and board sailing, windsurfing, ice sailing, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "sailing, in competition",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "sailing, Sunfish\/Laser\/Hobby Cat, Keel boats, ocean sailing, yachting, leisure",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "skiing, water or wakeboarding",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "jet skiing, driving, in water",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "skindiving, fast",
+  "METs": 15.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "skindiving, moderate",
+  "METs": 11.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "skindiving, scuba diving, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "snorkeling",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "surfing, body or board, general",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "surfing, body or board, competitive",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "paddle boarding, standing",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming laps, freestyle, fast, vigorous effort",
+  "METs": 9.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming laps, freestyle, front crawl, slow, light or moderate effort",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, backstroke, general, training or competition",
+  "METs": 9.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, backstroke, recreational",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, breaststroke, general, training or competition",
+  "METs": 10.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, breaststroke, recreational",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, butterfly, general",
+  "METs": 13.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, crawl, fast speed, ~75 yards\/minute, vigorous effort",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, crawl, medium speed, ~50 yards\/minute, vigorous effort",
+  "METs": 8.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, lake, ocean, river",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, leisurely, not lap swimming, general",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, sidestroke, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, synchronized",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, treading water, fast, vigorous effort",
+  "METs": 9.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "swimming, treading water, moderate effort, general",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "tubing, floating on a river, general",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water aerobics, water calisthenics",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water polo",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water volleyball",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water jogging",
+  "METs": 9.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water walking, light effort, slow pace",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water walking, moderate effort, moderate pace",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "water walking, vigorous effort, brisk pace",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "whitewater rafting, kayaking, or canoeing",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "windsurfing, not pumping for speed",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "windsurfing or kitesurfing, crossing trial",
+  "METs": 11
+ },
+ {
+  "ACTIVITY": "water activities",
+  "SPECIFICMOTION": "windsurfing, competition, pumping for speed",
+  "METs": 13.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "dog sledding, mushing",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "dog sledding, passenger",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "moving ice house, set up\/drill holes",
+  "METs": 6
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "ice fishing, sitting",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skating, ice dancing",
+  "METs": 14
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skating, ice, 9 mph or less",
+  "METs": 5.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skating, ice, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skating, ice, rapidly, more than 9 mph, not competitive",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skating, speed, competitive",
+  "METs": 13.3
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "ski jumping, climb up carrying skis",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, general",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross country, 2.5 mph, slow or light effort, ski walking",
+  "METs": 6.8
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general",
+  "METs": 9
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross country, 5.0-7.9 mph, brisk speed, vigorous effort",
+  "METs": 12.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross country, >8.0 mph, elite skier, racing",
+  "METs": 15
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross country, hard snow, uphill, maximum, snow mountaineering",
+  "METs": 15.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross-country, skating",
+  "METs": 13.3
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, cross-country, biathlon, skating technique",
+  "METs": 13.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, downhill, alpine or snowboarding, light effort, active time only",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, downhill, alpine or snowboarding, moderate effort, general, active time only",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, downhill, vigorous effort, racing",
+  "METs": 8
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "skiing, roller, elite racers",
+  "METs": 12.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "sledding, tobogganing, bobsledding, luge",
+  "METs": 7
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snow shoeing, moderate effort",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snow shoeing, vigorous effort",
+  "METs": 10
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snowmobiling, driving, moderate",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snowmobiling, passenger",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snow shoveling, by hand, moderate effort",
+  "METs": 5.3
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snow shoveling, by hand, vigorous effort",
+  "METs": 7.5
+ },
+ {
+  "ACTIVITY": "winter activities",
+  "SPECIFICMOTION": "snow blower, walking and pushing",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "sitting in church, in service, attending a ceremony, sitting quietly",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "sitting, playing an instrument at church",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "sitting in church, talking or singing, attending a ceremony, sitting, active participation",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "sitting, reading religious materials at home",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "standing quietly in church, attending a ceremony",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "standing, singing in church, attending a ceremony, standing, active participation",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "kneeling in church or at home, praying",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "standing, talking in church",
+  "METs": 1.8
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "walking in church",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "walking, less than 2.0 mph, very slow",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "walking, 3.0 mph, moderate speed, not carrying anything",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "walking, 3.5 mph, brisk speed, not carrying anything",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "walk\/stand combination for religious purposes, usher",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "praise with dance or run, spiritual dancing in church",
+  "METs": 5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "serving food at church",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "preparing food at church",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "washing dishes, cleaning kitchen at church",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "eating at church",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "eating\/talking at church or standing eating, American Indian Feast days",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "cleaning church",
+  "METs": 3.3
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "general yard work at church",
+  "METs": 4
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "standing, moderate effort (e.g., lifting heavy objects, assembling at fast rate)",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "Standing, moderate-to-heavy effort, manual labor, lifting 50 lbs, heavy maintenance",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "religious activities",
+  "SPECIFICMOTION": "typing, electric, manual, or computer",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "sitting, meeting, general, and\/or with talking involved",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "sitting, light office work, in general",
+  "METs": 1.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "sitting, moderate work",
+  "METs": 2.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "standing, light work (filing, talking, assembling)",
+  "METs": 2.3
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "sitting, child care, only active periods",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "standing, child care, only active periods",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walk\/run play with children, moderate, only active periods",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walk\/run play with children, vigorous, only active periods",
+  "METs": 5.8
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "standing, light\/moderate work (e.g., pack boxes, assemble\/repair, set up chairs\/furniture)",
+  "METs": 3
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "standing, moderate (lifting 50 lbs., assembling at fast rate)",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "standing, moderate\/heavy work",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "typing, electric, manual, or computer",
+  "METs": 1.3
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walking, less than 2.0 mph, very slow",
+  "METs": 2
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walking, 3.0 mph, moderate speed, not carrying anything",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walking, 3.5 mph, brisk speed, not carrying anything",
+  "METs": 4.3
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walking, 2.5 mph slowly and carrying objects less than 25 lbs",
+  "METs": 3.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walking, 3.0 mph moderately and carrying objects less than 25 lbs, pushing something",
+  "METs": 4.5
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walking, 3.5 mph, briskly and carrying objects less than 25 lbs",
+  "METs": 4.8
+ },
+ {
+  "ACTIVITY": "volunteer activities",
+  "SPECIFICMOTION": "walk\/stand combination, for volunteer purposes",
+  "METs": 3
+ }
+]
